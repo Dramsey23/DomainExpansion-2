@@ -1,0 +1,13 @@
+.main-page{
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    
+}
+
+.center-area{
+    border-style: solid;
+    border-color: white;
+    height: 150;
+
+}

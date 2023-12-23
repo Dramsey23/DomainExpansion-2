@@ -1,2 +1,2 @@
 # DomainExpansion-2
-Anime jjk
+ A fan service site dedicated to JJK fans new and old.
