@@ -1,13 +1,25 @@
+.body{}
+
+
+
 .main-page{
+    background-image: url(images/sakunaBG.jpeg);
     background-size: cover;
     height: 100vh;
     display:flex;
+    justify-content: center;
+    align-items: center;
     
 }
+
+
 
 .center-area{
     border-style: solid;
     border-color: white;
-    height: 150;
+    height: 400px;
+    width: 400px;
+    
+
 
 }
