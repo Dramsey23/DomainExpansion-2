@@ -1,0 +1,47 @@
+.yuji{
+    background-image: url(images/Yuji\ webp.webp);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.character-boxes{
+width: 1100px;
+display: flex;
+justify-content: space-between;
+
+}
+
+.cast{
+    border: solid;
+    border-color: black;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.button-wrapper{
+    width: 100px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.buttons{
+    border: solid;
+    border-radius: 20px;
+    border-color: black;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black
+}
+
